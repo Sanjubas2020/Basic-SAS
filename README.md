@@ -1,4 +1,5 @@
 SAS
+
 Statistical Analysis System/ Software
 
 One of the technical tool and integrated system of software products.
@@ -7,8 +8,6 @@ SAS discovered in 1960 and launchseted in market in 1973.
 It is the largest market-share holder for advanced analytics. 
 A point-and-click interface was added in version 9 in 2004.  
 SAS is a software suite that can mine, alter, manage and retrieve data from a variety of sources and perform statistical analysis on it. 
-
-
 
 ***********************************************************
 
