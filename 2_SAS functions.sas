@@ -30,16 +30,16 @@ keep_alphabets=compress(var,' ','ak');/*remove alphabets*/
 new=compress(var,'B','i');
 run;
 
-/* a – Remove all upper and lower case characters from String. */
-/* ak – Keep only alphabets from String. */
-/* kd – Keeps only numeric values */
-/* d – Remove numerical values from String. */
-/* i – Remove specified characters both upper and lower case from String. */
-/* k – keeps the specified characters in the string instead of removing them. */
-/* l – Remove lowercase characters from String. */
-/* p – Remove Punctuation characters from String. */
-/* s – Remove spaces from String. This is default. */
-/* u – Remove uppercase characters from String. */
+/* a â€“ Remove all upper and lower case characters from String. */
+/* ak â€“ Keep only alphabets from String. */
+/* kd â€“ Keeps only numeric values */
+/* d â€“ Remove numerical values from String. */
+/* i â€“ Remove specified characters both upper and lower case from String. */
+/* k â€“ keeps the specified characters in the string instead of removing them. */
+/* l â€“ Remove lowercase characters from String. */
+/* p â€“ Remove Punctuation characters from String. */
+/* s â€“ Remove spaces from String. This is default. */
+/* u â€“ Remove uppercase characters from String. */
 
 data new;
 length name $30;
